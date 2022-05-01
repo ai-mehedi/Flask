@@ -1,0 +1,4 @@
+/venv
+/migrations
+git config --global user.email "aminulislam0527@gmail.com"
+git config --global user.name "ai-mehedi"
